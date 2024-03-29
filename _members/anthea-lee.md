@@ -1,6 +1,6 @@
 ---
 name: Anthea Lee
-image: images/anthea.jpg
+image: images/anthea.jpeg
 role: phd
 description: PhD Student
 ---
