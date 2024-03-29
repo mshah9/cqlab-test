@@ -1,6 +1,6 @@
 ---
 name: Dr Manan Shah  
-image: images/photo.jpg
+image: images/manan-shah.jpeg
 role: postdoc
 description: Postdoctoral Fellow
 ---
