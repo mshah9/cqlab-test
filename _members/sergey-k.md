@@ -1,6 +1,6 @@
 ---
 name: Dr Sergey Kurdyukov  
-image: images/photo.jpg
+image: images/sergey.jpeg
 role: postdoc
 description: Research Associate
 ---

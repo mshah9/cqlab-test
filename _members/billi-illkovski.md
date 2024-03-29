@@ -1,6 +1,6 @@
 ---
 name: Dr Billi Ilkovski
-image: images/photo.jpg
+image: images/billi.jpeg
 role: postdoc
 description: Lab Manager
 ---

@@ -1,6 +1,6 @@
 ---
 name: Dr Henry Bell 
-image: images/photo.jpg
+image: images/henry.jpeg
 role: postdoc
 description: Postdoctoral Fellow
 ---
