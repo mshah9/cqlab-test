@@ -1,0 +1,1 @@
+Sitemap: /cqlab-test/sitemap.xml
