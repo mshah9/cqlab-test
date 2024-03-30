@@ -28,6 +28,5 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 # Alumni
 {% include list.html data="members" component="portrait" filters="group: alum" %}
 
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}
