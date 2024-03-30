@@ -518,6 +518,23 @@
   size: ;
 -->
 
+<script>
+    
+    var elements = document.querySelectorAll('p');
+    Array.prototype.forEach.call(elements, function(el, i){
+        if(el.innerHTML=='[expand]') {
+            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<div class="expand" style="display: none; height: 0; overflow: hidden;">').replace('<p>[/expand]</p>','</div>');
+            el.parentNode.innerHTML = parentcontent;
+        }
+    });
+
+    var elements = document.querySelectorAll('div.expand');
+    Array.prototype.forEach.call(elements, function(el, i){
+        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span>..&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">read&nbsp;more&nbsp;&rarr;</a></span>';
+    });
+
+</script>
+
 <div class="feature" data-flip="">
   <a class="feature-image" aria-label="Exploiting adipose tissue eosinophils to combat obesity">
     <img src="/cqlab-test/preview/pr-1/images/photo.jpg" loading="lazy" alt="Exploiting adipose tissue eosinophils to combat obesity" onerror="this.src = '/cqlab-test/preview/pr-1/images/fallback.svg'; this.onerror = null;">
