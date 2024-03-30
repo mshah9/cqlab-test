@@ -1,9 +1,9 @@
 ---
 ---
 
-# mshah9's Website
+# Crossley and Quinlan Lab
 
-An engaging 1-3 sentence description of your lab.
+Discover our research investigating the fundamental mechanisms underlying specific gene control, in the context of blood and metabolic disorders. From debilitating blood diseases to controlling obesity, our research projects aim to come up with solutions to global issues.
 
 {% include section.html %}
 

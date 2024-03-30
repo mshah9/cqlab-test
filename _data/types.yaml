@@ -16,11 +16,11 @@ phd:
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Honours Student
 
-programmer:
+labmanager:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Lab Manager
 
 mascot:
   icon: fa-solid fa-dog
