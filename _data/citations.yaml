@@ -216,3 +216,21 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/36822180
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:35090172
+  title: Disrupting the adult globin promoter alleviates promoter competition and
+    reactivates fetal globin gene expression.
+  authors:
+  - Sarah K Topfer
+  - Ruopeng Feng
+  - Peng Huang
+  - Lana C Ly
+  - Gabriella E Martyn
+  - Gerd A Blobel
+  - Mitchell J Weiss
+  - Kate G R Quinlan
+  - Merlin Crossley
+  publisher: Blood
+  date: '2022-04-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35090172
+  plugin: sources.py
+  file: sources.yaml
