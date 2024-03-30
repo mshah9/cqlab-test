@@ -11,7 +11,7 @@ Discover our research investigating the fundamental mechanisms underlying specif
 
 
 {% include section.html %}
-
+{% include text-expand.html %}
 {%
   include feature.html
   image="images/photo.jpg"
