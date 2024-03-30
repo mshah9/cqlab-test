@@ -1,7 +1,7 @@
 ---
 name: Dr Billi Ilkovski
 image: images/billi.jpeg
-role: postdoc
+role: labmanager
 description: Lab Manager
 ---
 
