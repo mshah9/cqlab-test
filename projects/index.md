@@ -18,7 +18,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="feature" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
