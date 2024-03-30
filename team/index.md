@@ -16,7 +16,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filters="role: pi" %}\
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad and group != alum" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: ^(!alum)" %}
 
 
 
