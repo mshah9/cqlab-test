@@ -62,10 +62,10 @@
 
   <meta name="author" content="john-doe">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-03-30T04:39:05+00:00">
+  <meta property="og:updated_time" content="2024-03-30T04:44:04+00:00">
   <meta property="article:published_time" content="2023-02-23T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-03-30T04:39:05+00:00">
-  <meta name="revised" content="2024-03-30T04:39:05+00:00">
+  <meta property="article:modified_time" content="2024-03-30T04:44:04+00:00">
+  <meta name="revised" content="2024-03-30T04:44:04+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Example post 3" },
       "datePublished": "2023-02-23T00:00:00+00:00",
-      "dateModified": "2024-03-30T04:39:05+00:00",
+      "dateModified": "2024-03-30T04:44:04+00:00",
     
     "name": "Example post 3",
     "description": "An engaging 1-3 sentence description of your lab.",
@@ -555,22 +555,6 @@
   </section>
 
 
-      <script>
-    
-    var elements = document.querySelectorAll('p');
-    Array.prototype.forEach.call(elements, function(el, i){
-        if(el.innerHTML=='[expand]') {
-            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<div class="expand" style="display: none; height: 0; overflow: hidden;">').replace('<p>[/expand]</p>','</div>');
-            el.parentNode.innerHTML = parentcontent;
-        }
-    });
-
-    var elements = document.querySelectorAll('div.expand');
-    Array.prototype.forEach.call(elements, function(el, i){
-        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span>..&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">read&nbsp;more&nbsp;&rarr;</a></span>';
-    });
-
-</script>
     </main>
     
 
