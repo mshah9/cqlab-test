@@ -2,13 +2,12 @@
 title: Research
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Our research
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Discover our research investigating the fundamental mechanisms underlying specific gene control, in the context of blood and metabolic disorders. From debilitating blood diseases to controlling obesity, our research projects aim to come up with solutions to global issues.
 
 {% include tags.html tags="publication, resource, website" %}
 
