@@ -65,7 +65,7 @@
   publisher: Blood
   date: '2022-04-07'
   link: https://doi.org/gtpk95
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/febs.15737
@@ -95,7 +95,7 @@
   publisher: Cell Reports
   date: '2021-09-01'
   link: https://doi.org/gtpk96
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/sciadv.abg0088
@@ -169,7 +169,7 @@
   publisher: Nature Communications
   date: '2020-05-22'
   link: https://doi.org/gtpk99
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.redox.2019.101374
@@ -217,7 +217,7 @@
   publisher: BioEssays
   date: '2019-06-27'
   link: https://doi.org/ggrskg
-  orcid: 0000-0003-1390-5450
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1182/blood-2018-07-863951
@@ -233,7 +233,7 @@
   publisher: Blood
   date: '2019-02-21'
   link: https://doi.org/gtpmbb
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4049/jimmunol.1801063
@@ -266,7 +266,7 @@
   publisher: Biotechnology Reports
   date: '2018-12-01'
   link: https://doi.org/gtpmbd
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tig.2018.09.004
@@ -280,7 +280,7 @@
   publisher: Trends in Genetics
   date: '2018-12-01'
   link: https://doi.org/gfpt9m
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/bies.201800098
@@ -294,7 +294,7 @@
   publisher: BioEssays
   date: '2018-08-22'
   link: https://doi.org/gd39hr
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41588-018-0085-0
@@ -316,7 +316,7 @@
   publisher: Nature Genetics
   date: '2018-04-01'
   link: https://doi.org/gdff8b
-  orcid: 0000-0003-1390-5450
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/hmg/ddx423
@@ -350,7 +350,7 @@
   publisher: Erythropoiesis
   date: '2017-10-27'
   link: https://doi.org/gtpmbg
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.apmr.2016.08.474
@@ -408,7 +408,7 @@
   publisher: Scientific Reports
   date: '2017-06-09'
   link: https://doi.org/gbh8sf
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ijo.2017.72
@@ -443,7 +443,7 @@
   publisher: Blood
   date: '2017-08-10'
   link: https://doi.org/gbrhrq
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.joca.2017.03.007
@@ -498,7 +498,7 @@
   publisher: Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms
   date: '2017-05-01'
   link: https://doi.org/gtpmbh
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.physio.2014.12.002
@@ -584,7 +584,7 @@
   publisher: Journal of Biological Chemistry
   date: '2016-07-01'
   link: https://doi.org/f8zjqn
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1004862
@@ -618,7 +618,7 @@
   publisher: Nucleic Acids Research
   date: '2015-12-15'
   link: https://doi.org/f8ndtj
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ncomms8085
@@ -639,7 +639,7 @@
   publisher: Nature Communications
   date: '2015-05-14'
   link: https://doi.org/f7d5fd
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1074/jbc.M115.638338
@@ -665,7 +665,7 @@
   publisher: Journal of Biological Chemistry
   date: '2015-03-01'
   link: https://doi.org/f66nd5
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1471-2199-15-8
@@ -688,7 +688,7 @@
   publisher: BMC Molecular Biology
   date: '2014-05-16'
   link: https://doi.org/gb48pd
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0088653
@@ -815,7 +815,7 @@
   publisher: PLoS ONE
   date: '2014-08-27'
   link: https://doi.org/gtpmbm
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/hmg/ddt580
@@ -918,7 +918,7 @@
   publisher: Journal of Biological Chemistry
   date: '2011-11-01'
   link: https://doi.org/fdkhs2
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.bone.2011.07.009
@@ -1022,7 +1022,7 @@
   publisher: Biochimica et Biophysica Acta (BBA) - Reviews on Cancer
   date: '2007-06-01'
   link: https://doi.org/cf66ct
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ng2122
@@ -1063,7 +1063,7 @@
   publisher: The FEBS Journal
   date: '2006-06-07'
   link: https://doi.org/fk7xxc
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ygeno.2005.12.011
@@ -1078,7 +1078,7 @@
   publisher: Genomics
   date: '2006-04-01'
   link: https://doi.org/dpwvsz
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MCB.02402-05
@@ -1095,7 +1095,7 @@
   publisher: Molecular and Cellular Biology
   date: '2006-07-01'
   link: https://doi.org/bsg29d
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MCB.00445-06
@@ -1113,7 +1113,7 @@
   publisher: Molecular and Cellular Biology
   date: '2006-11-01'
   link: https://doi.org/fxhk8n
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MCB.00680-06
@@ -1131,7 +1131,7 @@
   publisher: Molecular and Cellular Biology
   date: '2006-11-01'
   link: https://doi.org/dr943k
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.mcn.2005.07.001
@@ -1178,35 +1178,1724 @@
   orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
-- id: pubmed:36822180
-  title: Blood and adipose-resident eosinophils are defined by distinct transcriptional
-    profiles.
+- id: doi:10.1016/j.tig.2022.07.003
+  title: 'Effective therapies for sickle cell disease: are we there yet?'
   authors:
-  - Manan Shah
-  - Alexander J Knights
-  - Emily J Vohralik
-  - Annalise M Psaila
-  - Kate G R Quinlan
-  publisher: Journal of leukocyte biology
-  date: '2023-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36822180
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:35090172
-  title: Disrupting the adult globin promoter alleviates promoter competition and
-    reactivates fetal globin gene expression.
+  - Merlin Crossley
+  - Georgios E. Christakopoulos
+  - Mitchell J. Weiss
+  publisher: Trends in Genetics
+  date: '2022-12-01'
+  link: https://doi.org/gtpmzw
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-021-00904-0
+  title: "Activation of \u03B3-globin gene expression by GATA1 and NF-Y in hereditary\
+    \ persistence of fetal hemoglobin"
   authors:
-  - Sarah K Topfer
+  - Phillip A. Doerfler
   - Ruopeng Feng
-  - Peng Huang
-  - Lana C Ly
-  - Gabriella E Martyn
-  - Gerd A Blobel
-  - Mitchell J Weiss
-  - Kate G R Quinlan
+  - Yichao Li
+  - Lance E. Palmer
+  - Shaina N. Porter
+  - Henry W. Bell
+  - Merlin Crossley
+  - Shondra M. Pruett-Miller
+  - Yong Cheng
+  - Mitchell J. Weiss
+  publisher: Nature Genetics
+  date: '2021-08-01'
+  link: https://doi.org/gmtqgh
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2020.11.006
+  title: "ZNF410\_Uniquely Activates the NuRD Component CHD4 to Silence Fetal Hemoglobin\
+    \ Expression"
+  authors:
+  - Xianjiang Lan
+  - Ren Ren
+  - Ruopeng Feng
+  - Lana C. Ly
+  - Yemin Lan
+  - Zhe Zhang
+  - Nicholas Aboreden
+  - Kunhua Qin
+  - John R. Horton
+  - Jeremy D. Grevet
+  - Thiyagaraj Mayuranathan
+  - Osheiza Abdulmalik
+  - Cheryl A. Keller
+  - Belinda Giardine
+  - Ross C. Hardison
+  - Merlin Crossley
+  - Mitchell J. Weiss
+  - Xiaodong Cheng
+  - Junwei Shi
+  - Gerd A. Blobel
+  publisher: Molecular Cell
+  date: '2021-01-01'
+  link: https://doi.org/ghwbn9
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-020-16758-9
+  title: "Eosinophil function in adipose tissue is regulated by Kr\xFCppel-like factor\
+    \ 3 (KLF3)"
+  authors:
+  - Alexander J. Knights
+  - Emily J. Vohralik
+  - Peter J. Houweling
+  - Elizabeth S. Stout
+  - Laura J. Norton
+  - Stephanie J. Alexopoulos
+  - Jinfen. J. Yik
+  - Hanapi Mat Jusoh
+  - Ellen M. Olzomer
+  - Kim S. Bell-Anderson
+  - Kathryn N. North
+  - Kyle L. Hoehn
+  - Merlin Crossley
+  - Kate G. R. Quinlan
+  publisher: Nature Communications
+  date: '2020-06-10'
+  link: https://doi.org/gpk6cj
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/SCIENCE.ABB5931
+  title: Global citizen deliberation on genome editing
+  authors:
+  - John S. Dryzek
+  - Dianne Nicol
+  - Simon Niemeyer
+  - Sonya Pemberton
+  - Nicole Curato
+  - "Andr\xE9 B\xE4chtiger"
+  - Philip Batterham
+  - "Bj\xF8rn Bedsted"
+  - Simon Burall
+  - Michael Burgess
+  - Gaetan Burgio
+  - Yurij Castelfranchi
+  - "Herv\xE9 Chneiweiss"
+  - George Church
+  - Merlin Crossley
+  - Jantina de Vries
+  - Mahmud Farooque
+  - Marit Hammond
+  - Baogang He
+  - "Ricardo Mendon\xE7a"
+  - Jennifer Merchant
+  - Anna Middleton
+  - John E. J. Rasko
+  - Ine Van Hoyweghen
+  - Antoine Vergne
+  publisher: Science
+  date: '2020-09-18'
+  link: https://doi.org/gtpmzx
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.RA120.013114
+  title: "Kr\xFCppel-like factor 3 (KLF3) suppresses NF-\u03BAB\u2013driven inflammation\
+    \ in mice"
+  authors:
+  - Alexander J. Knights
+  - Lu Yang
+  - Manan Shah
+  - Laura J. Norton
+  - Gamran S. Green
+  - Elizabeth S. Stout
+  - Emily J. Vohralik
+  - Merlin Crossley
+  - Kate G.R. Quinlan
+  publisher: Journal of Biological Chemistry
+  date: '2020-05-01'
+  link: https://doi.org/gtpmfv
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2018-09-873620
+  title: "Charting a noncoding gene for \u03B3-globin activation"
+  authors:
+  - Gerd A. Blobel
   - Merlin Crossley
   publisher: Blood
-  date: '2022-04-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35090172
-  plugin: sources.py
-  file: sources.yaml
+  date: '2018-11-01'
+  link: https://doi.org/gtpmzz
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/bloodadvances.2016002303
+  title: KLF1 directly activates expression of the novel fetal globin repressor ZBTB7A/LRF
+    in erythroid cells
+  authors:
+  - Laura J. Norton
+  - Alister P. W. Funnell
+  - Jon Burdach
+  - Beeke Wienert
+  - Ryo Kurita
+  - Yukio Nakamura
+  - Sjaak Philipsen
+  - Richard C. M. Pearson
+  - Kate G. R. Quinlan
+  - Merlin Crossley
+  publisher: Blood Advances
+  date: '2017-04-25'
+  link: https://doi.org/gcrz9p
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13073-017-0475-4
+  title: Key challenges in bringing CRISPR-mediated somatic cell therapy into the
+    clinic
+  authors:
+  - Dianne Nicol
+  - Lisa Eckstein
+  - Michael Morrison
+  - Jacob S. Sherkow
+  - Margaret Otlowski
+  - Tess Whitton
+  - Tania Bubela
+  - Kathryn P. Burdon
+  - Don Chalmers
+  - Sarah Chan
+  - Jac Charlesworth
+  - Christine Critchley
+  - Merlin Crossley
+  - Sheryl de Lacey
+  - Joanne L. Dickinson
+  - Alex W. Hewitt
+  - Joanne Kamens
+  - Kazuto Kato
+  - Erika Kleiderman
+  - Satoshi Kodama
+  - John Liddicoat
+  - David A. Mackey
+  - Ainsley J. Newson
+  - Jane Nielsen
+  - Jennifer K. Wagner
+  - Rebekah E. McWhirter
+  publisher: Genome Medicine
+  date: '2017-09-25'
+  link: https://doi.org/gtpmz2
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkx441
+  title: "Kr\xFCppel-like factors compete for promoters and enhancers to fine-tune\
+    \ transcription"
+  authors:
+  - Melissa D. Ilsley
+  - Kevin R. Gillinder
+  - Graham W. Magor
+  - Stephen Huang
+  - Timothy L. Bailey
+  - Merlin Crossley
+  - Andrew C. Perkins
+  publisher: Nucleic Acids Research
+  date: '2017-05-24'
+  link: https://doi.org/gbjz6b
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-016-0977-1
+  title: 'Erratum to: Repression of chimeric transcripts emanating from endogenous
+    retrotransposons by a sequence-specific transcription factor'
+  authors:
+  - Ka Sin Mak
+  - Jon Burdach
+  - Laura J. Norton
+  - Richard CM Pearson
+  - Merlin Crossley
+  - Alister PW Funnell
+  publisher: Genome Biology
+  date: '2016-06-03'
+  link: https://doi.org/gtpmz3
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aad3312
+  title: Transcription factors LRF and BCL11A independently repress expression of
+    fetal hemoglobin
+  authors:
+  - Takeshi Masuda
+  - Xin Wang
+  - Manami Maeda
+  - Matthew C. Canver
+  - Falak Sher
+  - Alister P. W. Funnell
+  - Chris Fisher
+  - Maria Suciu
+  - Gabriella E. Martyn
+  - Laura J. Norton
+  - Catherine Zhu
+  - Ryo Kurita
+  - Yukio Nakamura
+  - Jian Xu
+  - Douglas R. Higgs
+  - Merlin Crossley
+  - Daniel E. Bauer
+  - Stuart H. Orkin
+  - Peter V. Kharchenko
+  - Takahiro Maeda
+  publisher: Science
+  date: '2016-01-15'
+  link: https://doi.org/f764vj
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep19582
+  title: Homeodomain-Interacting Protein Kinase (HPK-1) regulates stress responses
+    and ageing in C. elegans
+  authors:
+  - Slavica Berber
+  - Mallory Wood
+  - Estelle Llamosas
+  - Priya Thaivalappil
+  - Karen Lee
+  - Bing Mana Liao
+  - Yee Lian Chew
+  - Aaron Rhodes
+  - Duygu Yucel
+  - Merlin Crossley
+  - Hannah R Nicholas
+  publisher: Scientific Reports
+  date: '2016-01-21'
+  link: https://doi.org/f77tbz
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tig.2013.09.007
+  title: Hemophilia B Leyden and once mysterious cis-regulatory mutations
+  authors:
+  - Alister P.W. Funnell
+  - Merlin Crossley
+  publisher: Trends in Genetics
+  date: '2014-01-01'
+  link: https://doi.org/f5pnqs
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.02626
+  title: Multi-species, multi-transcription factor binding highlights conserved control
+    of tissue-specific biological pathways
+  authors:
+  - Benoit Ballester
+  - Alejandra Medina-Rivera
+  - Dominic Schmidt
+  - "Mar Gonz\xE0lez-Porta"
+  - Matthew Carlucci
+  - Xiaoting Chen
+  - Kyle Chessman
+  - Andre J Faure
+  - Alister PW Funnell
+  - Angela Goncalves
+  - Claudia Kutter
+  - Margus Lukk
+  - Suraj Menon
+  - William M McLaren
+  - Klara Stefflova
+  - Stephen Watt
+  - Matthew T Weirauch
+  - Merlin Crossley
+  - John C Marioni
+  - Duncan T Odom
+  - Paul Flicek
+  - Michael D Wilson
+  publisher: eLife
+  date: '2014-10-03'
+  link: https://doi.org/f6wsjc
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkt895
+  title: Regions outside the DNA-binding domain are critical for proper in vivo specificity
+    of an archetypal zinc finger transcription factor
+  authors:
+  - J. Burdach
+  - A. P. W. Funnell
+  - K. S. Mak
+  - C. M. Artuz
+  - B. Wienert
+  - W. F. Lim
+  - L. Y. Tan
+  - R. C. M. Pearson
+  - M. Crossley
+  publisher: Nucleic Acids Research
+  date: '2013-10-07'
+  link: https://doi.org/f5sgv3
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2014-15-4-r58
+  title: Repression of chimeric transcripts emanating from endogenous retrotransposons
+    by a sequence-specific transcription factor
+  authors:
+  - Ka Sin Mak
+  - Jon Burdach
+  - Laura J Norton
+  - Richard CM Pearson
+  - Merlin Crossley
+  - Alister PW Funnell
+  publisher: Genome Biology
+  date: '2014-04-01'
+  link: https://doi.org/f59w4x
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ydbio.2014.05.018
+  title: SUMV-1 antagonizes the activity of synthetic multivulva genes in Caenorhabditis
+    elegans
+  authors:
+  - "Duygu Y\xFCcel"
+  - Matthew Hoe
+  - Estelle Llamosas
+  - Sashi Kant
+  - Callum Jamieson
+  - Pamela A. Young
+  - Merlin Crossley
+  - Hannah R. Nicholas
+  publisher: Developmental Biology
+  date: '2014-08-01'
+  link: https://doi.org/f6bjk8
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.exger.2014.09.022
+  title: The transcriptional repressor CTBP-1 functions in the nervous system of Caenorhabditis
+    elegans to regulate lifespan
+  authors:
+  - Anna Reid
+  - "Duygu Y\xFCcel"
+  - Mallory Wood
+  - Estelle Llamosas
+  - Sashi Kant
+  - Merlin Crossley
+  - Hannah Nicholas
+  publisher: Experimental Gerontology
+  date: '2014-12-01'
+  link: https://doi.org/f6snw6
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2013.02.003
+  title: A CpG Mutational Hotspot in a ONECUT Binding Site Accounts for the Prevalent
+    Variant of Hemophilia B Leyden
+  authors:
+  - "Alister\_P.W. Funnell"
+  - "Michael\_D. Wilson"
+  - Benoit Ballester
+  - "Ka\_Sin Mak"
+  - Jon Burdach
+  - Natisha Magan
+  - "Richard\_C.M. Pearson"
+  - "Frederic\_P. Lemaigre"
+  - "Kathryn\_M. Stowell"
+  - "Duncan\_T. Odom"
+  - Paul Flicek
+  - Merlin Crossley
+  publisher: The American Journal of Human Genetics
+  date: '2013-03-01'
+  link: https://doi.org/f4rcv6
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1003612
+  title: ENU-induced Mutation in the DNA-binding Domain of KLF3 Reveals Important
+    Roles for KLF3 in Cardiovascular Development and Function in Mice
+  authors:
+  - Lois Kelsey
+  - Ann M. Flenniken
+  - Dawei Qu
+  - Alister P. W. Funnell
+  - Richard Pearson
+  - Yu-Qing Zhou
+  - Irina Voronina
+  - Zorana Berberovic
+  - Geoffrey Wood
+  - Susan Newbigging
+  - Edward S. Weiss
+  - Michael Wong
+  - Ivan Quach
+  - S. Y. Sandy Yeh
+  - Ashish R. Deshwar
+  - Ian C. Scott
+  - Colin McKerlie
+  - Mark Henkelman
+  - Peter Backx
+  - Jeremy Simpson
+  - Lucy Osborne
+  - Janet Rossant
+  - Merlin Crossley
+  - Benoit Bruneau
+  - S. Lee Adamson
+  publisher: PLoS Genetics
+  date: '2013-07-11'
+  link: https://doi.org/gbdfvc
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.00074-13
+  title: Generation of Mice Deficient in both KLF3/BKLF and KLF8 Reveals a Genetic
+    Interaction and a Role for These Factors in Embryonic Globin Gene Silencing
+  authors:
+  - Alister P. W. Funnell
+  - Ka Sin Mak
+  - Natalie A. Twine
+  - Gregory J. Pelka
+  - Laura J. Norton
+  - Tania Radziewic
+  - Melinda Power
+  - Marc R. Wilkins
+  - Kim S. Bell-Anderson
+  - Stuart T. Fraser
+  - Andrew C. Perkins
+  - Patrick P. Tam
+  - Richard C. M. Pearson
+  - Merlin Crossley
+  publisher: Molecular and Cellular Biology
+  date: '2013-08-01'
+  link: https://doi.org/f437gv
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.24023
+  title: "Homeodomain interacting protein kinase (HPK\u20101) is required in the soma\
+    \ for robust germline proliferation in <i>C. elegans</i>"
+  authors:
+  - Slavica Berber
+  - Estelle Llamosas
+  - Priya Thaivalappil
+  - Peter R. Boag
+  - Merlin Crossley
+  - Hannah R. Nicholas
+  publisher: Developmental Dynamics
+  date: '2013-09-02'
+  link: https://doi.org/f6bk74
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibs.2013.06.005
+  title: Is there a telltale RH fingerprint in zinc fingers that recognizes methylated
+    CpG dinucleotides?
+  authors:
+  - Joel P. Mackay
+  - David J. Segal
+  - Merlin Crossley
+  publisher: Trends in Biochemical Sciences
+  date: '2013-09-01'
+  link: https://doi.org/gtpmz5
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2337/db12-1745
+  title: "Loss of Kr\xFCppel-Like Factor 3 (KLF3/BKLF) Leads to Upregulation of the\
+    \ Insulin-Sensitizing Factor Adipolin (FAM132A/CTRP12/C1qdc2)"
+  authors:
+  - Kim S. Bell-Anderson
+  - Alister P. Funnell
+  - Helen Williams
+  - Hanapi Mat Jusoh
+  - Tiffany Scully
+  - Wooi F. Lim
+  - Jon G. Burdach
+  - Ka Sin Mak
+  - Alexander J. Knights
+  - Andrew J. Hoy
+  - Hannah R. Nicholas
+  - Amanda Sainsbury
+  - Nigel Turner
+  - Richard C. Pearson
+  - Merlin Crossley
+  publisher: Diabetes
+  date: '2013-07-17'
+  link: https://doi.org/f4724d
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M112.441451
+  title: New Insights into DNA Recognition by Zinc Fingers Revealed by Structural
+    Analysis of the Oncoprotein ZNF217
+  authors:
+  - "Maryl\xE8ne Vandevenne"
+  - David A. Jacques
+  - Crisbel Artuz
+  - Cuong Dinh Nguyen
+  - Ann H.Y. Kwan
+  - David J. Segal
+  - Jacqueline M. Matthews
+  - Merlin Crossley
+  - J.Mitchell Guss
+  - Joel P. Mackay
+  publisher: Journal of Biological Chemistry
+  date: '2013-04-01'
+  link: https://doi.org/f4vfdx
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gks285
+  title: A rapid method for assessing the RNA-binding potential of a protein
+  authors:
+  - K. Bendak
+  - F.E. Loughlin
+  - V. Cheung
+  - "M.R. O\u2019Connell"
+  - M. Crossley
+  - J.P. Mackay
+  publisher: Nucleic Acids Research
+  date: '2012-04-03'
+  link: https://doi.org/gtpmz6
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ceb.2012.05.012
+  title: 'Controlling the size of lipid droplets: lipid and protein factors'
+  authors:
+  - Hongyuan Yang
+  - Anne Galea
+  - Vladimir Sytnyk
+  - Merlin Crossley
+  publisher: Current Opinion in Cell Biology
+  date: '2012-08-01'
+  link: https://doi.org/f354x3
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4614-3229-6_7
+  title: Homo- and Heterodimerization in Transcriptional Regulation
+  authors:
+  - Alister P. W. Funnell
+  - Merlin Crossley
+  publisher: Advances in Experimental Medicine and Biology
+  date: '2012-01-01'
+  link: https://doi.org/gtpmz7
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.00173-12
+  title: The CACCC-Binding Protein KLF3/BKLF Represses a Subset of KLF1/EKLF Target
+    Genes and Is Required for Proper Erythroid Maturation <i>In Vivo</i>
+  authors:
+  - Alister P. W. Funnell
+  - Laura J. Norton
+  - Ka Sin Mak
+  - Jon Burdach
+  - Crisbel M. Artuz
+  - Natalie A. Twine
+  - Marc R. Wilkins
+  - Carl A. Power
+  - Tzong-Tyng Hung
+  - "Jos\xE9 Perdomo"
+  - Philip Koh
+  - Kim S. Bell-Anderson
+  - Stuart H. Orkin
+  - Stuart T. Fraser
+  - Andrew C. Perkins
+  - Richard C. M. Pearson
+  - Merlin Crossley
+  publisher: Molecular and Cellular Biology
+  date: '2012-08-01'
+  link: https://doi.org/f3465q
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibs.2012.02.001
+  title: Two-timing zinc finger transcription factors liaising with RNA
+  authors:
+  - Jon Burdach
+  - "Mitchell R. O\u2019Connell"
+  - Joel P. Mackay
+  - Merlin Crossley
+  publisher: Trends in Biochemical Sciences
+  date: '2012-05-01'
+  link: https://doi.org/f3zj8d
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biocel.2011.01.017
+  title: 'C-terminal binding protein: A metabolic sensor implicated in regulating
+    adipogenesis'
+  authors:
+  - Briony H.A. Jack
+  - Richard C. Pearson
+  - Merlin Crossley
+  publisher: The International Journal of Biochemistry &amp; Cell Biology
+  date: '2011-05-01'
+  link: https://doi.org/ddmctb
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2011/501464
+  title: Cellular Reprogramming toward the Erythroid Lineage
+  authors:
+  - Laura J. Norton
+  - Alister P. W. Funnell
+  - Richard C. M. Pearson
+  - Merlin Crossley
+  publisher: International Journal of Cell Biology
+  date: '2011-01-01'
+  link: https://doi.org/bb57c9
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/jimmunol.1101450
+  title: "Impaired B Cell Development in the Absence of Kr\xFCppel-like Factor 3"
+  authors:
+  - Thi Thanh Vu
+  - Dominique Gatto
+  - Vivian Turner
+  - Alister P. W. Funnell
+  - Ka Sin Mak
+  - Laura J. Norton
+  - Warren Kaplan
+  - Mark J. Cowley
+  - "Fabien Agen\xE8s"
+  - "J\xF6rg Kirberg"
+  - Robert Brink
+  - Richard C. M. Pearson
+  - Merlin Crossley
+  publisher: The Journal of Immunology
+  date: '2011-11-15'
+  link: https://doi.org/bf9cg3
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2011/808524
+  title: 'PU.1 and Haematopoietic Cell Fate: Dosage Matters'
+  authors:
+  - Ka Sin Mak
+  - Alister P. W. Funnell
+  - Richard C. M. Pearson
+  - Merlin Crossley
+  publisher: International Journal of Cell Biology
+  date: '2011-01-01'
+  link: https://doi.org/cn5rt5
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2010-09-308742
+  title: "Programming of marginal zone B-cell fate by basic Kr\xFCppel-like factor\
+    \ (BKLF/KLF3)"
+  authors:
+  - Gleb Turchinovich
+  - Thi Thanh Vu
+  - Friederike Frommer
+  - Jan Kranich
+  - Sonja Schmid
+  - Melanie Alles
+  - Jean-Baptiste Loubert
+  - Jean-Philippe Goulet
+  - Ursula Zimber-Strobl
+  - Pascal Schneider
+  - "J\xFCrgen Bachl"
+  - Richard Pearson
+  - Merlin Crossley
+  - "Fabien Agen\xE8s"
+  - "J\xF6rg Kirberg"
+  publisher: Blood
+  date: '2011-04-07'
+  link: https://doi.org/ddpkwx
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/prot.23068
+  title: "Protein\u2013protein interactions: Analysis of a false positive GST pulldown\
+    \ result"
+  authors:
+  - Sandra Wissmueller
+  - Josep Font
+  - Chu Wai Liew
+  - Edward Cram
+  - Thilo Schroeder
+  - Jeremy Turner
+  - Merlin Crossley
+  - Joel P. Mackay
+  - Jacqueline M. Matthews
+  publisher: 'Proteins: Structure, Function, and Bioinformatics'
+  date: '2011-06-02'
+  link: https://doi.org/cv4rtx
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1105898108
+  title: Structural basis of simultaneous recruitment of the transcriptional regulators
+    LMO2 and FOG1/ZFPM1 by the transcription factor GATA1
+  authors:
+  - Lorna Wilkinson-White
+  - Roland Gamsjaeger
+  - Siavoush Dastmalchi
+  - Beeke Wienert
+  - Philippa H. Stokes
+  - Merlin Crossley
+  - Joel P. Mackay
+  - Jacqueline M. Matthews
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2011-08-15'
+  link: https://doi.org/fr3txd
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/iub.422
+  title: "The mammalian zinc finger transcription factor Kr\xFCppel\u2010like factor\
+    \ 3 (KLF3/BKLF)"
+  authors:
+  - Richard C.M. Pearson
+  - Alister P.W. Funnell
+  - Merlin Crossley
+  publisher: IUBMB Life
+  date: '2011-02-01'
+  link: https://doi.org/cbhtdh
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M110.141317
+  title: GATA Proteins Work Together with Friend of GATA (FOG) and C-terminal Binding
+    Protein (CTBP) Co-regulators to Control Adipogenesis
+  authors:
+  - Briony H.A. Jack
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '2010-10-01'
+  link: https://doi.org/c7sdb8
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.00302-10
+  title: KLF3 Regulates Muscle-Specific Gene Expression and Synergizes with Serum
+    Response Factor on KLF Binding Sites
+  authors:
+  - Charis L. Himeda
+  - Jeffrey A. Ranish
+  - Richard C. M. Pearson
+  - Merlin Crossley
+  - Stephen D. Hauschka
+  publisher: Molecular and Cellular Biology
+  date: '2010-07-01'
+  link: https://doi.org/b5t2db
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2141.2008.07065.x
+  title: A mechanism for Ikaros regulation of human globin gene switching
+  authors:
+  - Janelle R. Keys
+  - Michael R. Tallack
+  - Ye Zhan
+  - Peter Papathanasiou
+  - Christopher C. Goodnow
+  - Karin M. Gaensler
+  - Merlin Crossley
+  - Job Dekker
+  - Andrew C. Perkins
+  publisher: British Journal of Haematology
+  date: '2008-04-09'
+  link: https://doi.org/fkzmhj
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M804831200
+  title: "A Network of Kr\xFCppel-like Factors (Klfs)"
+  authors:
+  - Sally A. Eaton
+  - Alister P.W. Funnell
+  - Nancy Sue
+  - Hannah Nicholas
+  - Richard C.M. Pearson
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '2008-10-01'
+  link: https://doi.org/bhtf5g
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2007-04-085746
+  title: Hls5 regulated erythroid differentiation by modulating GATA-1 activity
+  authors:
+  - Raelene Endersby
+  - Ian J. Majewski
+  - Louise Winteringham
+  - Jennifer G. Beaumont
+  - Amy Samuels
+  - Robin Scaife
+  - Esther Lim
+  - Merlin Crossley
+  - S. Peter Klinken
+  - Jean-Philippe Lalonde
+  publisher: Blood
+  date: '2008-02-15'
+  link: https://doi.org/fvvq22
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biocel.2007.07.018
+  title: "Kr\xFCppel-like transcription factors: A functional family"
+  authors:
+  - Richard Pearson
+  - Jacqueline Fleetwood
+  - Sally Eaton
+  - Merlin Crossley
+  - Shisan Bao
+  publisher: The International Journal of Biochemistry &amp; Cell Biology
+  date: '2008-01-01'
+  link: https://doi.org/bf9hjs
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibs.2008.04.003
+  title: 'Response to Chatr-aryamontri et al.: Protein interactions: to believe or
+    not to believe?'
+  authors:
+  - Joel P. Mackay
+  - Margaret Sunde
+  - Jason A. Lowry
+  - Merlin Crossley
+  - Jacqueline M. Matthews
+  publisher: Trends in Biochemical Sciences
+  date: '2008-06-01'
+  link: https://doi.org/b6hzxn
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.01942-07
+  title: "Targeted Disruption of the Basic Kr\xFCppel-Like Factor Gene (<i>Klf3</i>)\
+    \ Reveals a Role in Adipogenesis"
+  authors:
+  - Nancy Sue
+  - Briony H. A. Jack
+  - Sally A. Eaton
+  - Richard C. M. Pearson
+  - Alister P. W. Funnell
+  - Jeremy Turner
+  - Robert Czolij
+  - Gareth Denyer
+  - Shisan Bao
+  - Juan Carlos Molero-Navajas
+  - Andrew Perkins
+  - Yuko Fujiwara
+  - Stuart H. Orkin
+  - Kim Bell-Anderson
+  - Merlin Crossley
+  publisher: Molecular and Cellular Biology
+  date: '2008-06-01'
+  link: https://doi.org/cvjd4x
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmb.2007.10.041
+  title: The Caenorhabditis elegans Protein CTBP-1 Defines a New Group of THAP Domain-Containing
+    CtBP Corepressors
+  authors:
+  - Hannah R. Nicholas
+  - Jason A. Lowry
+  - Tina Wu
+  - Merlin Crossley
+  publisher: Journal of Molecular Biology
+  date: '2008-01-01'
+  link: https://doi.org/fwb826
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M700246200
+  title: A Novel Corepressor, BCoR-L1, Represses Transcription through an Interaction
+    with CtBP
+  authors:
+  - Julia K. Pagan
+  - Jeremy Arnold
+  - Kim J. Hanchard
+  - Raman Kumar
+  - Tiziana Bruno
+  - Mathew J.K. Jones
+  - Derek J. Richard
+  - Alistair Forrest
+  - Amanda Spurdle
+  - Eric Verdin
+  - Merlin Crossley
+  - Maurizio Fanciulli
+  - Georgia Chenevix-Trench
+  - David B. Young
+  - Kum Kum Khanna
+  publisher: Journal of Biological Chemistry
+  date: '2007-05-01'
+  link: https://doi.org/c628jm
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.01658-06
+  title: "Erythroid Kr\xFCppel-Like Factor Directly Activates the Basic Kr\xFCppel-Like\
+    \ Factor Gene in Erythroid Cells"
+  authors:
+  - Alister P. W. Funnell
+  - Christopher A. Maloney
+  - Lucinda J. Thompson
+  - Janelle Keys
+  - Michael Tallack
+  - Andrew C. Perkins
+  - Merlin Crossley
+  publisher: Molecular and Cellular Biology
+  date: '2007-04-01'
+  link: https://doi.org/d87mbh
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibs.2007.09.006
+  title: 'Protein interactions: is seeing believing?'
+  authors:
+  - J MACKAY
+  - M SUNDE
+  - J LOWRY
+  - M CROSSLEY
+  - J MATTHEWS
+  publisher: Trends in Biochemical Sciences
+  date: '2007-12-01'
+  link: https://doi.org/fvdqr2
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmb.2006.11.058
+  title: Solution Structure of the THAP Domain from Caenorhabditis elegans C-terminal
+    Binding Protein (CtBP)
+  authors:
+  - Chu Kong Liew
+  - Merlin Crossley
+  - Joel P. Mackay
+  - Hannah R. Nicholas
+  publisher: Journal of Molecular Biology
+  date: '2007-02-01'
+  link: https://doi.org/b2fg92
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibs.2006.12.007
+  title: 'Sticky fingers: zinc-fingers as protein-recognition motifs'
+  authors:
+  - R GAMSJAEGER
+  - C LIEW
+  - F LOUGHLIN
+  - M CROSSLEY
+  - J MACKAY
+  publisher: Trends in Biochemical Sciences
+  date: '2007-02-01'
+  link: https://doi.org/dhc473
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M602830200
+  title: Molecular Analysis of the Interaction between the Hematopoietic Master Transcription
+    Factors GATA-1 and PU.1
+  authors:
+  - Chu Wai Liew
+  - Kasper D. Rand
+  - Raina J.Y. Simpson
+  - Wendy W. Yung
+  - Robyn E. Mansfield
+  - Merlin Crossley
+  - Mette Proetorius-Ibba
+  - Claus Nerlov
+  - Flemming M. Poulsen
+  - Joel P. Mackay
+  publisher: Journal of Biological Chemistry
+  date: '2006-09-01'
+  link: https://doi.org/b98f86
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.str.2004.12.007
+  title: 'Assessment of the Robustness of a Serendipitous Zinc Binding Fold: Mutagenesis
+    and Protein Grafting'
+  authors:
+  - Belinda K. Sharpe
+  - Chu Kong Liew
+  - Ann H. Kwan
+  - Jackie A. Wilce
+  - Merlin Crossley
+  - Jacqueline M. Matthews
+  - Joel P. Mackay
+  publisher: Structure
+  date: '2005-02-01'
+  link: https://doi.org/bgkpfk
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.onc.1208216
+  title: 'KAI1 promoter activity is dependent on p53, junB and AP2: evidence for a
+    possible mechanism underlying loss of KAI1 expression in cancer cells'
+  authors:
+  - Alexandra Marreiros
+  - Kip Dudgeon
+  - Vinh Dao
+  - Marc-Oliver Grimm
+  - Robert Czolij
+  - Merlin Crossley
+  - Paul Jackson
+  publisher: Oncogene
+  date: '2004-12-06'
+  link: https://doi.org/chcwrv
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.25.4.1549-1559.2005
+  title: Role for SUMO Modification in Facilitating Transcriptional Repression by
+    BKLF
+  authors:
+  - "Jos\xE9 Perdomo"
+  - Alexis Verger
+  - Jeremy Turner
+  - Merlin Crossley
+  publisher: Molecular and Cellular Biology
+  date: '2005-02-01'
+  link: https://doi.org/bn874b
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0407511102
+  title: 'Zinc fingers as protein recognition motifs: Structural basis for the GATA-1/Friend
+    of GATA interaction'
+  authors:
+  - Chu Kong Liew
+  - Raina J. Y. Simpson
+  - Ann H. Y. Kwan
+  - Linda A. Crofts
+  - Fionna E. Loughlin
+  - Jacqueline M. Matthews
+  - Merlin Crossley
+  - Joel P. Mackay
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2005-01-11'
+  link: https://doi.org/fskqxf
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M400320200
+  title: Activation and Repression of Interleukin-12 p40 Transcription by Erythroid
+    Kruppel-like Factor in Macrophages
+  authors:
+  - Qi Luo
+  - Xiaojing Ma
+  - Sharon M. Wahl
+  - James J. Bieker
+  - Merlin Crossley
+  - Luis J. Montaner
+  publisher: Journal of Biological Chemistry
+  date: '2004-04-01'
+  link: https://doi.org/fhpmqg
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00018-004-4176-y
+  title: DNA damage repair and transcription
+  authors:
+  - A. Verger
+  - M. Crossley
+  publisher: Cellular and Molecular Life Sciences
+  date: '2004-08-01'
+  link: https://doi.org/dzkg94
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M404130200
+  title: A Classic Zinc Finger from Friend of GATA Mediates an Interaction with the
+    Coiled-coil of Transforming Acidic Coiled-coil 3
+  authors:
+  - Raina J.Y. Simpson
+  - Stella Hoi Yi Lee
+  - Natalie Bartle
+  - Eleanor Y. Sum
+  - Jane E. Visvader
+  - Jacqueline M. Matthews
+  - Joel P. Mackay
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '2004-09-01'
+  link: https://doi.org/cvk6xs
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.24.11.5088.2004
+  title: Protein-Protein Interaction between Fli-1 and GATA-1 Mediates Synergistic
+    Expression of Megakaryocyte-Specific Genes through Cooperative DNA Binding
+  authors: []
+  publisher: Molecular and Cellular Biology
+  date: '2004-06-01'
+  link: https://doi.org/fksq8k
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M211146200
+  title: CCHX Zinc Finger Derivatives Retain the Ability to Bind Zn(II) and Mediate
+    Protein-DNA Interactions
+  authors:
+  - Raina J.Y. Simpson
+  - Edward D. Cram
+  - Robert Czolij
+  - Jacqueline M. Matthews
+  - Merlin Crossley
+  - Joel P. Mackay
+  publisher: Journal of Biological Chemistry
+  date: '2003-07-01'
+  link: https://doi.org/bkrcpc
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0969-2126(03)00122-9
+  title: Engineering a Protein Scaffold from a PHD Finger
+  authors:
+  - Ann H.Y. Kwan
+  - David A. Gell
+  - Alexis Verger
+  - Merlin Crossley
+  - Jacqueline M. Matthews
+  - Joel P. Mackay
+  publisher: Structure
+  date: '2003-07-01'
+  link: https://doi.org/chppf4
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/humu.10308
+  title: Mutations ofZFPM2/FOG2 gene in sporadic cases of tetralogy of Fallot
+  authors:
+  - Antonio Pizzuti
+  - Anna Sarkozy
+  - Anthea L. Newton
+  - Emanuela Conti
+  - Elisabetta Flex
+  - Maria Cristina Digilio
+  - Francesca Amati
+  - Debora Gianni
+  - Caterina Tandoi
+  - Bruno Marino
+  - Merlin Crossley
+  - Bruno Dallapiccola
+  publisher: Human Mutation
+  date: '2003-11-17'
+  link: https://doi.org/fjvrc2
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0378-1119(02)01101-0
+  title: 'Identification of regulatory regions within the KAI1 promoter: a role for
+    binding of AP1, AP2 and p53'
+  authors:
+  - Alexandra Marreiros
+  - Robert Czolij
+  - Gina Yardley
+  - Merlin Crossley
+  - Paul Jackson
+  publisher: Gene
+  date: '2003-01-01'
+  link: https://doi.org/dbgz58
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.embor.embor738
+  title: Modification with SUMO
+  authors:
+  - Alexis Verger
+  - "Jos\xE9 Perdomo"
+  - Merlin Crossley
+  publisher: EMBO reports
+  date: '2003-02-01'
+  link: https://doi.org/cv52r6
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/humu.10261
+  title: Mutations ofZFPM2/FOG2 gene in sporadic cases of tetralogy of Fallot
+  authors:
+  - Antonio Pizzuti
+  - Anna Sarkozy
+  - Anthea L. Newton
+  - Emanuela Conti
+  - Elisabetta Flex
+  - Maria Cristina Digilio
+  - Francesca Amati
+  - Debora Gianni
+  - Caterina Tandoi
+  - Bruno Marino
+  - Merlin Crossley
+  - Bruno Dallapiccola
+  publisher: Human Mutation
+  date: '2003-09-24'
+  link: https://doi.org/frnvf8
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.23.10.3427-3441.2003
+  title: Protein-Protein Interaction between Fli-1 and GATA-1 Mediates Synergistic
+    Expression of Megakaryocyte-Specific Genes through Cooperative DNA Binding
+  authors:
+  - Michael Eisbacher
+  - Melissa L. Holmes
+  - Anthea Newton
+  - Philip J. Hogg
+  - Levon M. Khachigian
+  - Merlin Crossley
+  - Beng H. Chong
+  publisher: Molecular and Cellular Biology
+  date: '2003-05-01'
+  link: https://doi.org/cw9866
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M306817200
+  title: The C-terminal Domain of Eos Forms a High Order Complex in Solution
+  authors:
+  - Belinda J. Westman
+  - "Jos\xE9 Perdomo"
+  - Margaret Sunde
+  - Merlin Crossley
+  - Joel P. Mackay
+  publisher: Journal of Biological Chemistry
+  date: '2003-10-01'
+  link: https://doi.org/dgzsmh
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M300587200
+  title: "The LIM Protein FHL3 Binds Basic Kr\xFCppel-like Factor/Kr\xFCppel-like\
+    \ Factor 3 and Its Co-repressor C-terminal-binding Protein 2"
+  authors:
+  - Jeremy Turner
+  - Hannah Nicholas
+  - David Bishop
+  - Jacqueline M. Matthews
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '2003-04-01'
+  link: https://doi.org/bs62q7
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2003-4-5-320
+  title: ''
+  authors:
+  - Merlin Crossley
+  publisher: Genome Biology
+  date: '2003-01-01'
+  link: https://doi.org/b4wpwk
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0969-2126(02)00757-8
+  title: A New Zinc Binding Fold Underlines the Versatility of Zinc Binding Modules
+    in Protein Evolution
+  authors:
+  - Belinda K. Sharpe
+  - Jacqueline M. Matthews
+  - Ann H.Y. Kwan
+  - Anthea Newton
+  - David A. Gell
+  - Merlin Crossley
+  - Joel P. Mackay
+  publisher: Structure
+  date: '2002-05-01'
+  link: https://doi.org/frhvbg
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M204663200
+  title: Characterization of the Conserved Interaction between GATA and FOG Family
+    Proteins
+  authors:
+  - Kasper Kowalski
+  - Chu Kong Liew
+  - Jacqueline M. Matthews
+  - David A. Gell
+  - Merlin Crossley
+  - Joel P. Mackay
+  publisher: Journal of Biological Chemistry
+  date: '2002-09-01'
+  link: https://doi.org/bsmr5h
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1432-1033.2002.03313.x
+  title: "The Ikaros family protein Eos associates with C\u2010terminal\u2010binding\
+    \ protein corepressors"
+  authors:
+  - "Jos\xE9 Perdomo"
+  - Merlin Crossley
+  publisher: European Journal of Biochemistry
+  date: '2002-11-23'
+  link: https://doi.org/ffzpmt
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M102343200
+  title: Evi-1 Transforming and Repressor Activities Are Mediated by CtBP Co-repressor
+    Proteins
+  authors:
+  - Susan Palmer
+  - Jean-Paul Brouillet
+  - Anna Kilbey
+  - Ruth Fulton
+  - Mark Walker
+  - Merlin Crossley
+  - Chris Bartholomew
+  publisher: Journal of Biological Chemistry
+  date: '2001-07-01'
+  link: https://doi.org/c6n4gc
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M100070200
+  title: "Induction of AP-2\u03B1 Expression by Adenoviral Infection Involves Inactivation\
+    \ of the AP-2rep Transcriptional Corepressor CtBP1"
+  authors:
+  - Marion Schuierer
+  - Kristina Hilger-Eversheim
+  - Thomas Dobner
+  - Anja-Katrin Bosserhoff
+  - Markus Moser
+  - Jeremy Turner
+  - Merlin Crossley
+  - Reinhard Buettner
+  publisher: Journal of Biological Chemistry
+  date: '2001-07-01'
+  link: https://doi.org/ftpc2k
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bies.1097
+  title: "The CtBP family: enigmatic and enzymatic transcriptional co\u2010repressors"
+  authors:
+  - Jeremy Turner
+  - Merlin Crossley
+  publisher: BioEssays
+  date: '2001-07-25'
+  link: https://doi.org/dwdg4v
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M106256200
+  title: The N-terminal Zinc Finger of the Erythroid Transcription Factor GATA-1 Binds
+    GATC Motifs in DNA
+  authors:
+  - Anthea Newton
+  - Joel Mackay
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '2001-09-01'
+  link: https://doi.org/dmrqnz
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1006/bbrc.2001.5721
+  title: The Role of the Coiled-Coil Motif in Interactions Mediated by TPD52
+  authors:
+  - Pavani Sathasivam
+  - Angela M. Bailey
+  - Merlin Crossley
+  - Jennifer A. Byrne
+  publisher: Biochemical and Biophysical Research Communications
+  date: '2001-10-01'
+  link: https://doi.org/dssbcj
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood.V98.9.2681
+  title: X-linked thrombocytopenia caused by a novel mutation ofGATA-1
+  authors:
+  - Michele G. Mehaffey
+  - Anthea L. Newton
+  - Manish J. Gandhi
+  - Merlin Crossley
+  - Jonathan G. Drachman
+  publisher: Blood
+  date: '2001-11-01'
+  link: https://doi.org/dkrm58
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1432-1327.2000.01095.x
+  title: "A class of zinc fingers involved in protein\u2013protein interactions"
+  authors:
+  - Jacqueline M. Matthews
+  - Kasper Kowalski
+  - Chu Kong Liew
+  - Belinda K. Sharpe
+  - Archa H. Fox
+  - Merlin Crossley
+  - Joel P. Mackay
+  publisher: European Journal of Biochemistry
+  date: '2000-02-01'
+  link: https://doi.org/bjrq22
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M005457200
+  title: Eos and Pegasus, Two Members of the Ikaros Family of Proteins with Distinct
+    DNA Binding Activities
+  authors:
+  - "Jos\xE9 Perdomo"
+  - Melissa Holmes
+  - Beng Chong
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '2000-12-01'
+  link: https://doi.org/ddz6pc
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0969-2126(00)00527-X
+  title: "Solution Structures of Two CCHC Zinc Fingers from the FOG Family Protein\
+    \ U-Shaped that Mediate Protein\u2013Protein Interactions"
+  authors:
+  - Chu Kong Liew
+  - Kasper Kowalski
+  - Archa H Fox
+  - Anthea Newton
+  - Belinda K Sharpe
+  - Merlin Crossley
+  - Joel P Mackay
+  publisher: Structure
+  date: '2000-11-01'
+  link: https://doi.org/czc4h9
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M910396199
+  title: The Transactivation Domain within Cysteine/Histidine-rich Region 1 of CBP
+    Comprises Two Novel Zinc-binding Modules
+  authors:
+  - Anthea L. Newton
+  - Belinda K. Sharpe
+  - Ann Kwan
+  - Joel P. Mackay
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '2000-05-01'
+  link: https://doi.org/bcf4d4
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1357-2725(99)00067-9
+  title: "Basic Kr\xFCppel-like factor functions within a network of interacting haematopoietic\
+    \ transcription factors"
+  authors:
+  - Jeremy Turner
+  - Merlin Crossley
+  publisher: The International Journal of Biochemistry &amp; Cell Biology
+  date: '1999-10-01'
+  link: https://doi.org/csdqhp
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0968-0004(99)01406-1
+  title: "Mammalian Kr\xFCppel-like transcription factors: more than just a pretty\
+    \ finger"
+  authors:
+  - Jeremy Turner
+  - Merlin Crossley
+  publisher: Trends in Biochemical Sciences
+  date: '1999-06-01'
+  link: https://doi.org/ctm5kj
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1023/A:1008309602929
+  title: ''
+  authors:
+  - K. Kowalski
+  - R. Czolij
+  - G.F. King
+  - M. Crossley
+  - J.P. Mackay
+  publisher: Journal of Biomolecular NMR
+  date: '1999-01-01'
+  link: https://doi.org/bdpprz
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/emboj/18.10.2812
+  title: Transcriptional cofactors of the FOG family interact with GATA proteins by
+    means of multiple zinc fingers
+  authors:
+  - Archa H. Fox
+  - Chu Liew
+  - Melissa Holmes
+  - Kasper Kowalski
+  - Joel Mackay
+  - Merlin Crossley
+  publisher: The EMBO Journal
+  date: '1999-05-17'
+  link: https://doi.org/c94gn2
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.274.33.23491
+  title: hFOG-2, a Novel Zinc Finger Protein, Binds the Co-repressor mCtBP2 and Modulates
+    GATA-mediated Activation
+  authors:
+  - Melissa Holmes
+  - Jeremy Turner
+  - Archa Fox
+  - Orin Chisholm
+  - Merlin Crossley
+  - Beng Chong
+  publisher: Journal of Biological Chemistry
+  date: '1999-08-01'
+  link: https://doi.org/c8wpkk
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/emboj/17.17.5129
+  title: Cloning and characterization of mCtBP2, a co-repressor that associates with
+    basic Kruppel-like factor and other mammalian transcriptional regulators
+  authors:
+  - J. Turner
+  publisher: The EMBO Journal
+  date: '1998-09-01'
+  link: https://doi.org/bwbfs8
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1677/joe.0.1560425
+  title: Expression of the parathyroid Ca(2+)-sensing receptor in cytotrophoblasts
+    from human term placenta
+  authors:
+  - RA Bradbury
+  - KL Sunn
+  - M Crossley
+  - M Bai
+  - EM Brown
+  - L Delbridge
+  - AD Conigrave
+  publisher: Journal of Endocrinology
+  date: '1998-03-01'
+  link: https://doi.org/dh7znr
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.273.46.30560
+  title: Involvement of the N-finger in the Self-association of GATA-1
+  authors:
+  - Joel P. Mackay
+  - Kasper Kowalski
+  - Archa H. Fox
+  - Robert Czolij
+  - Glenn F. King
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '1998-11-01'
+  link: https://doi.org/c3ns4p
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.273.50.33595
+  title: Key Residues Characteristic of GATA N-fingers Are Recognized By FOG
+  authors:
+  - Archa H. Fox
+  - Kasper Kowalski
+  - Glenn F. King
+  - Joel P. Mackay
+  - Merlin Crossley
+  publisher: Journal of Biological Chemistry
+  date: '1998-12-01'
+  link: https://doi.org/b4gkjh
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.273.37.23793
+  title: "Transcription Factor Erythroid Kr\xFCppel-like Factor (ELKF) Is Essential\
+    \ for the Erythropoietin-induced Hemoglobin Production but Not for Proliferation,\
+    \ Viability, or Morphological Maturation"
+  authors:
+  - Angelo Spadaccini
+  - Peta A. Tilbrook
+  - Mohinder K. Sarna
+  - Merlin Crossley
+  - James J. Bieker
+  - S. Peter Klinken
+  publisher: Journal of Biological Chemistry
+  date: '1998-09-01'
+  link: https://doi.org/crnz6w
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0968-0004(97)01168-7
+  title: Zinc fingers are sticking together
+  authors:
+  - Joel P. Mackay
+  - Merlin Crossley
+  publisher: Trends in Biochemical Sciences
+  date: '1998-01-01'
+  link: https://doi.org/cft3fk
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0092-8674(00)80318-9
+  title: FOG, a Multitype Zinc Finger Protein, Acts as a Cofactor for Transcription
+    Factor GATA-1 in Erythroid and Megakaryocytic Differentiation
+  authors:
+  - Alice P Tsang
+  - Jane E Visvader
+  - C.Alexander Turner
+  - Yuko Fujiwara
+  - Channing Yu
+  - Mitchell J Weiss
+  - Merlin Crossley
+  - Stuart H Orkin
+  publisher: Cell
+  date: '1997-07-01'
+  link: https://doi.org/cbbtp7
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0959-437X(93)90028-N
+  title: "Regulation of the \u03B2-globin locus"
+  authors:
+  - Merlin Crossley
+  - Stuart H. Orkin
+  publisher: Current Opinion in Genetics &amp; Development
+  date: '1993-01-01'
+  link: https://doi.org/b9cjkd
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1631558
+  title: 'Recovery from Hemophilia B Leyden: An Androgen-Responsive Element in the
+    Factor IX Promoter'
+  authors:
+  - Merlin Crossley
+  - Michael Ludwig
+  - Kathryn M. Stowell
+  - Piet De Vos
+  - Klaus Olek
+  - George G. Brownlee
+  publisher: Science
+  date: '1992-07-17'
+  link: https://doi.org/dgspng
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/18.15.4633
+  title: A less severe form of Haemophilia B Leyden
+  authors:
+  - M. Crossley
+  - P. R. Winship
+  - D. E.G. Austen
+  - C. R. Rizza
+  - G. G. Brownlee
+  publisher: Nucleic Acids Research
+  date: '1990-08-11'
+  link: https://doi.org/cjwtdc
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/18.22.6731
+  title: Comparative sequence analysis of mammalian factor IX promoters
+  authors:
+  - C.-P. Pang
+  - M. Crossley
+  - G. Kent
+  - G.G. Brownlee
+  publisher: Nucleic Acids Research
+  date: '1990-01-01'
+  link: https://doi.org/b2n6hd
+  orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
