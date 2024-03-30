@@ -12,9 +12,10 @@ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
-#Principal Investigators
+# Principal Investigators
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
+# Current Lab Members
 {% include list.html data="members" component="portrait" filters="role: labmanager" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
@@ -29,6 +30,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 {% capture content %}
+
+# Alumni
 
 {% include list.html data="members" component="portrait" filters="group: alum" %}
 
