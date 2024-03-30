@@ -9,7 +9,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-color: #046375;
+  background-image: var(--image);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
