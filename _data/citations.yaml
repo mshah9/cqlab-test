@@ -117,7 +117,7 @@
   publisher: Science Advances
   date: '2021-07-02'
   link: https://doi.org/gtpk97
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.11.20.392282
@@ -139,7 +139,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-11-23'
   link: https://doi.org/ghmng5
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/1440-1681.13304
@@ -217,7 +217,7 @@
   publisher: BioEssays
   date: '2019-06-27'
   link: https://doi.org/ggrskg
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1182/blood-2018-07-863951
@@ -316,7 +316,7 @@
   publisher: Nature Genetics
   date: '2018-04-01'
   link: https://doi.org/gdff8b
-  orcid: 0000-0002-5722-8183
+  orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/hmg/ddx423
@@ -1144,6 +1144,38 @@
   date: '2005-10-01'
   link: https://doi.org/fnvn68
   orcid: 0000-0002-5722-8183
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.ra120.013114
+  title: "Kr\xFCppel-like factor 3 (KLF3) suppresses NF-\u03BAB\u2013driven inflammation\
+    \ in mice"
+  authors:
+  - Alexander J. Knights
+  - Lu Yang
+  - Manan Shah
+  - Laura J. Norton
+  - Gamran S. Green
+  - Elizabeth S. Stout
+  - Emily J. Vohralik
+  - Merlin Crossley
+  - Kate G.R. Quinlan
+  publisher: Journal of Biological Chemistry
+  date: '2020-05-01'
+  link: https://doi.org/gtpmfv
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201605964
+  title: "A Quantitative Fluorescence\u2010Based Assay for Assessing LIM Domain\u2013\
+    Peptide Interactions"
+  authors:
+  - Neil O. Robertson
+  - Manan Shah
+  - Jacqueline M. Matthews
+  publisher: Angewandte Chemie International Edition
+  date: '2016-10-06'
+  link: https://doi.org/f3rgpq
+  orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
 - id: pubmed:36822180
