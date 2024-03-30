@@ -12,8 +12,9 @@ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}\\
+#Principal Investigators
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: labmanager" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
