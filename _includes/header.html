@@ -8,12 +8,13 @@
 
 <header
   class="background"
-  style="--image: url('{{ image }}')"
+  
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
   {% if page.url == "/" %}
     data-big
+    style="--image: url('{{ image }}')"
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">

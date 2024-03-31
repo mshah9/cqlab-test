@@ -129,10 +129,6 @@ header:not([data-big]) {
       width: 100%;
     }
   }
-  .background:before {
-    background-image: none;
-    background-color: black;
-  }
 }
 
 header[data-big] {
