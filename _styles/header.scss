@@ -129,7 +129,7 @@ header:not([data-big]) {
       width: 100%;
     }
   }
-  .background {
+  .background:before {
     background-image: none;
     background-color: black;
   }
