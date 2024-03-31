@@ -115,7 +115,7 @@ nav > a:hover {
     width: 100%;
   }
 }
-header:not([data-big]) .background {
+header:not([data-big]) .background:before {
   background-image: none;
   background-color: black;
 }
