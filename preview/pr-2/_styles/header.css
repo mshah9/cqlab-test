@@ -115,10 +115,6 @@ nav > a:hover {
     width: 100%;
   }
 }
-header:not([data-big]) .background:before {
-  background-image: none;
-  background-color: black;
-}
 
 header[data-big] {
   justify-content: center;
