@@ -1,11 +1,11 @@
-.background-alt {
+.background {
   position: relative;
   background: var(--background);
   color: var(--text);
   z-index: 1;
 }
 
-.background-alt:before {
+.background:before {
   content: "";
   position: absolute;
   inset: 0;
