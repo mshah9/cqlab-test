@@ -9,7 +9,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-color: #FFBA49;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   opacity: 1;
