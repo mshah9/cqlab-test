@@ -3,6 +3,12 @@
 
 # Crossley and Quinlan Lab
 
+{%
+  include figure.html
+  image="images/lab-grad.jpg"
+  width="100%"
+%}
+
 Discover our research investigating the fundamental mechanisms underlying specific gene control, in the context of blood and metabolic disorders. From debilitating blood diseases to controlling obesity, our research projects aim to come up with solutions to global issues.
 
 {% include section.html %}
@@ -74,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team-small.jpg"
   link="team"
   title="Our Team"
   text=text
