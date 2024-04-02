@@ -1,6 +1,6 @@
 .background {
   position: relative;
-  background: var(--background);
+  background: #495263;
   color: var(--text);
   z-index: 1;
 }
@@ -9,11 +9,10 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: var(--image);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  opacity: 0.25;
+  opacity: 1;
   z-index: -1;
 }
 
