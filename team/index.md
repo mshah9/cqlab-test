@@ -12,7 +12,7 @@ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
-# Principal Investigators
+# Principal Investigator
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 # Current Lab Members

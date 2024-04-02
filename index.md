@@ -1,7 +1,7 @@
 ---
 ---
 
-# Crossley and Quinlan Labs
+# Crossley Lab
 
 {%
   include figure.html
