@@ -14,7 +14,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Blood and adipose-resident eosinophils are defined by distinct transcriptional profiles" style="rich" %}
 {% include citation.html lookup="Disrupting the adult globin promoter alleviates promoter competition and reactivates fetal globin gene expression" style="rich" %}
 
 {% include section.html %}
